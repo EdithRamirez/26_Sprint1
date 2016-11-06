@@ -83,10 +83,10 @@ footer{
 	}
 	/*imagen de logo*/
 	#logo{
-		padding: 5%
-		 
+		padding: 5%	 
 	}		
 }
+
 @media screen and (max-width: 600px) {
 	.div-ancho{
 		width: 90%;
