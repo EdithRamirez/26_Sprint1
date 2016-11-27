@@ -57,6 +57,15 @@ i{
 footer{
 	padding: 2%;
 }
+.pd-5{
+	padding: 5%;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.mgt-5{
+	margin-top: 5%;
+}
 /*estilos referentes a padding y margin*/
 .pdt-3{
 	padding-top: 3%;
@@ -98,6 +107,9 @@ footer{
 		padding: 2%  
 	}
 	.margen{
+		margin-top: 5%;
+	}
+	.fondo-morado{
 		margin-top: 5%;
 	}
 }
